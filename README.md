@@ -1,2 +1,2 @@
 # learn-java
-java notes
+java note
